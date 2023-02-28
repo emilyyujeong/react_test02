@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
         <footer>
-            &copy; Han.
+            &copy; Yujeong.
         </footer>
     )
 }
